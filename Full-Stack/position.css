@@ -1,0 +1,16 @@
+section {
+    width: 400px;
+    height: 400px;
+}
+.box{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgba(200, 140, 80, 0.3);
+}
+#second{
+    position: relative;
+    top: 30px;
+    left: 30px;
+    background-color: blueviolet;
+}
